@@ -4,7 +4,7 @@
       "name": "HMI Zero",
       "maintainer": "Peake Electronic Innovation",
       "websiteUrl": "https://github.com/PeakeElectronicInnovation",
-      "Url": "https://github.com/PeakeElectronicInnovation/HMI_Zero/package_boardname_index.json",
+      "Url": "https://github.com/PeakeElectronicInnovation/HMI_zero/blob/main/package_boardname_index.json",
       "email": "PeakeElectronicInnovation@gmail.com",
       "platforms": [
         {
@@ -13,7 +13,7 @@
           "version": "1.0",
           "deprecated": false,
           "category": "Contributed",
-          "url": "https://github.com/PeakeElectronicInnovation/HMI_Zero/1.0.zip",
+          "url": "https://github.com/PeakeElectronicInnovation/HMI_zero/blob/main/1.0.zip",
           "archiveFileName": "1.0.zip",
           "checksum": "SHA-256:8A6081A24FD53FAA3DA849441C524A1871FA8B65F8A45425FEF39A4AE130F5E1"
 ",
@@ -24,7 +24,7 @@
             }
           ],
           "help": {
-            "online": "http://www.arduino.cc/en/Reference/HomePage"
+            "online": "https://github.com/PeakeElectronicInnovation"
           },
           "toolsDependencies": [
             {
